@@ -83,11 +83,9 @@
         },
         "placeholderIndex": 1,
         "id": "_5",
-        "name": "About",
         "version": "2.23",
         "closeable": true,
-        "uri": "widgets/About/Widget",
-        "config": "configs/About/config__5.json"
+        "uri": ""
       },
       {
         "position": {
@@ -95,7 +93,7 @@
           "top": 45,
           "relativeTo": "map"
         },
-        "placeholderIndex": 1,
+        "placeholderIndex": 2,
         "id": "_6"
       },
       {
@@ -104,7 +102,7 @@
           "top": 45,
           "relativeTo": "map"
         },
-        "placeholderIndex": 2,
+        "placeholderIndex": 3,
         "id": "_7"
       },
       {
@@ -113,7 +111,7 @@
           "top": 45,
           "relativeTo": "map"
         },
-        "placeholderIndex": 3,
+        "placeholderIndex": 4,
         "id": "_8"
       },
       {
@@ -122,7 +120,7 @@
           "top": 45,
           "relativeTo": "map"
         },
-        "placeholderIndex": 4,
+        "placeholderIndex": 5,
         "id": "_9"
       },
       {
@@ -342,9 +340,7 @@
   "isWebTier": false,
   "httpProxy": {
     "useProxy": true,
-    "alwaysUseProxy": false,
-    "url": "",
-    "rules": []
+    "url": "https://juanlaptop:3344/proxy.js"
   },
   "dataSource": {
     "dataSources": {},
